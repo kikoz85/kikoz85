@@ -10,8 +10,10 @@ Everything below is **free**, and built and maintained by one person in Livorno,
 | **[Ollocode](https://www.enricofanucchi.com/en/app/ollocode?utm_source=github&utm_campaign=profile)** | A macOS IDE with an AI agent that runs only on local models (Ollama, MLX). No cloud, no API keys. | [Download](https://github.com/kikoz85/Ollocode/releases/latest) |
 | **[spectraNET](https://www.enricofanucchi.com/en/app/spectranet?utm_source=github&utm_campaign=profile)** | A per-app network monitor that draws your network as a living city, in 2.5D or as a 2D map. Plus the open-source `snet` CLI. | [Download](https://github.com/kikoz85/spectraNET/releases/latest) |
 | **[Vocalis](https://www.enricofanucchi.com/en/app/vocalis?utm_source=github&utm_campaign=profile)** | A MIDI/KAR karaoke player for live nights, inspired by vanBasco: lyrics on the TV, the queue from phones. | [Download](https://github.com/kikoz85/Vocalis/releases/latest) |
+| **[MicTune](https://www.enricofanucchi.com/en/app/mictune?utm_source=github&utm_campaign=profile)** | Live pitch correction for singers: natural or hard tune, reverb, delay, 4-voice harmonies, backing track from YouTube or Spotify. Works with Vocalis over MIDI. | [Download](https://github.com/kikoz85/mictune/releases/latest) |
 | **[TreeX](https://www.enricofanucchi.com/en/app/treex?utm_source=github&utm_campaign=profile)** | The disk analyzer for developers: your disk as a city, and the node_modules, target and caches you can safely delete. | [Download](https://github.com/kikoz85/TreeX/releases/latest) |
 | **[VideoSTAX](https://www.enricofanucchi.com/en/app/videostax?utm_source=github&utm_campaign=profile)** | A video transcoding studio with GPU encoders: H.264, HEVC and AV1 with NVENC, Quick Sync and VideoToolbox. | [Download](https://github.com/kikoz85/videostax-releases/releases/latest) |
+| **[Revive](https://www.enricofanucchi.com/en/app/revive?utm_source=github&utm_campaign=profile)** | macOS only: makes a Mac fast again after Time Machine or Migration Assistant, without creating a new user. With backup and undo. | [Download](https://github.com/kikoz85/revive/releases/latest) |
 
 #### Android and web
 
