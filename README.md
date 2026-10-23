@@ -7,6 +7,7 @@ Everything below is **free**, and built and maintained by one person in Livorno,
 
 | App | What it does | Get it |
 |---|---|---|
+| **[ForgeWave](https://www.enricofanucchi.com/en/app/forgewave?utm_source=github&utm_campaign=profile)** | A non-destructive audio editor: mastering for Spotify and Apple Music (LUFS, true peak), EQ, restoration, spectral editing and stem separation with local AI. | [Download](https://github.com/kikoz85/ForgeWave/releases/latest) |
 | **[Ollocode](https://www.enricofanucchi.com/en/app/ollocode?utm_source=github&utm_campaign=profile)** | A macOS IDE with an AI agent that runs only on local models (Ollama, MLX). No cloud, no API keys. | [Download](https://github.com/kikoz85/Ollocode/releases/latest) |
 | **[spectraNET](https://www.enricofanucchi.com/en/app/spectranet?utm_source=github&utm_campaign=profile)** | A per-app network monitor that draws your network as a living city, in 2.5D or as a 2D map. Plus the open-source `snet` CLI. | [Download](https://github.com/kikoz85/spectraNET/releases/latest) |
 | **[Vocalis](https://www.enricofanucchi.com/en/app/vocalis?utm_source=github&utm_campaign=profile)** | A MIDI/KAR karaoke player for live nights, inspired by vanBasco: lyrics on the TV, the queue from phones. | [Download](https://github.com/kikoz85/Vocalis/releases/latest) |
