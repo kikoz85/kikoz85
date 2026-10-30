@@ -7,6 +7,7 @@ Everything below is **free**, and built and maintained by one person in Livorno,
 
 | App | What it does | Get it |
 |---|---|---|
+| **[4DJ](https://www.enricofanucchi.com/en/app/4dj?utm_source=github&utm_campaign=profile)** | DJ software with the layout DJs already know: local stems, in-key SmartSync, timecode, and the Kontrol S2 MK3 and Pioneer DJ controllers ready to plug in, on Linux too. | [Download](https://github.com/kikoz85/4dj/releases/latest) |
 | **[ForgeWave](https://www.enricofanucchi.com/en/app/forgewave?utm_source=github&utm_campaign=profile)** | A non-destructive audio editor: mastering for Spotify and Apple Music (LUFS, true peak), EQ, restoration, spectral editing and stem separation with local AI. | [Download](https://github.com/kikoz85/ForgeWave/releases/latest) |
 | **[AudioSTAX](https://www.enricofanucchi.com/en/app/audiostax?utm_source=github&utm_campaign=profile)** | A batch audio studio: convert hundreds of files, normalize them to LUFS for podcasts and Spotify, clean up voices with local AI and add subtitles. | [Download](https://github.com/kikoz85/audioSTAX/releases/latest) |
 | **[Ollocode](https://www.enricofanucchi.com/en/app/ollocode?utm_source=github&utm_campaign=profile)** | A macOS IDE with an AI agent that runs only on local models (Ollama, MLX). No cloud, no API keys. | [Download](https://github.com/kikoz85/Ollocode/releases/latest) |
