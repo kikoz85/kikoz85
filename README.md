@@ -7,6 +7,7 @@ Everything below is **free**, and built and maintained by one person in Livorno,
 
 | App | What it does | Get it |
 |---|---|---|
+| **[Tethera](https://www.enricofanucchi.com/en/app/tethera?utm_source=github&utm_campaign=profile)** | A VNC remote desktop for Mac, Windows and Linux: live previews of every computer, one window per session, two-way copy and paste, SFTP files and access from away through an SSH gateway, without open ports. | [Download](https://github.com/kikoz85/Tethera/releases/latest) |
 | **[Termina](https://www.enricofanucchi.com/en/app/termina?utm_source=github&utm_campaign=profile)** | An SSH client for Mac, Windows and Linux: terminal, SFTP files, tunnels and jump hosts, import from ~/.ssh, and on the Mac keys in the Keychain or the Secure Enclave with Touch ID. | [Download](https://github.com/kikoz85/Termina/releases/latest) |
 | **[4DJ](https://www.enricofanucchi.com/en/app/4dj?utm_source=github&utm_campaign=profile)** | DJ software with the layout DJs already know: local stems, in-key SmartSync, timecode, and the Kontrol S2 MK3 and Pioneer DJ controllers ready to plug in, on Linux too. | [Download](https://github.com/kikoz85/4dj/releases/latest) |
 | **[ForgeWave](https://www.enricofanucchi.com/en/app/forgewave?utm_source=github&utm_campaign=profile)** | A non-destructive audio editor: mastering for Spotify and Apple Music (LUFS, true peak), EQ, restoration, spectral editing and stem separation with local AI. | [Download](https://github.com/kikoz85/ForgeWave/releases/latest) |
